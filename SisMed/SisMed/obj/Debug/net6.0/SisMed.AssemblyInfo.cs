@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+476fe88f53c84c6a1149ec1806f5c3b6fc1616d8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bda465b6ae91f468e2b7e9c4ff97fdaee7a752f5")]
 [assembly: System.Reflection.AssemblyProductAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SisMed")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
