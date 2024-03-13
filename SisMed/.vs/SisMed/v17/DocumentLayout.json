@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Migrations\\20240313010528_EntidadeMedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SisMed\\Migrations\\20240313010528_EntidadeMedico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\views\\medicos\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\models\\viewmodels\\medicos\\listarmedicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\models\\viewmodels\\medicos\\listarmedicoviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\controllers\\medicoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,25 +35,64 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "20240313010528_EntidadeMedico.cs",
-              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Migrations\\20240313010528_EntidadeMedico.cs",
-              "RelativeDocumentMoniker": "SisMed\\Migrations\\20240313010528_EntidadeMedico.cs",
-              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Migrations\\20240313010528_EntidadeMedico.cs",
-              "RelativeToolTip": "SisMed\\Migrations\\20240313010528_EntidadeMedico.cs",
-              "ViewState": "AQIAABAAAAAAAAAAAAAwwAAAAAAAAAAA",
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SisMed\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SisMed\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAAAFEAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T01:49:21.933Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListarMedicoViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Models\\ViewModels\\Medicos\\ListarMedicoViewModel.cs",
+              "RelativeDocumentMoniker": "SisMed\\Models\\ViewModels\\Medicos\\ListarMedicoViewModel.cs",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Models\\ViewModels\\Medicos\\ListarMedicoViewModel.cs",
+              "RelativeToolTip": "SisMed\\Models\\ViewModels\\Medicos\\ListarMedicoViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-13T01:05:28.848Z",
+              "WhenOpened": "2024-03-13T01:36:08.767Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Medicos\\Index.cshtml",
+              "RelativeDocumentMoniker": "SisMed\\Views\\Medicos\\Index.cshtml",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Medicos\\Index.cshtml",
+              "RelativeToolTip": "SisMed\\Views\\Medicos\\Index.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAADEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T01:15:39.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MedicosController.cs",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\MedicosController.cs",
+              "RelativeDocumentMoniker": "SisMed\\Controllers\\MedicosController.cs",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\MedicosController.cs",
+              "RelativeToolTip": "SisMed\\Controllers\\MedicosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T01:14:28.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "SisMed\\Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\HomeController.cs",
               "RelativeToolTip": "SisMed\\Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-03-13T00:31:00.758Z",
               "EditorCaption": ""

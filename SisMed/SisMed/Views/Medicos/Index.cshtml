@@ -1,0 +1,60 @@
+﻿@model IEnumerable<SisMed.Models.ViewModels.Medicos.ListarMedicoViewModel>
+@{
+    ViewBag.Title = "Médicos";
+}
+
+<section class="content-header">
+    <div class="container-fluid">
+        <div class="row mb-2">
+            <div class="col-sm-6">
+                <h1>@ViewBag.Title</h1>
+            </div>
+        </div>
+    </div>
+</section>
+
+<div class="content">
+    <div class="row">
+        <div class="col-12">
+            <div class="card">
+                <div class="card-body table-responsive p-0">
+                    <table class="table table-head-fixed text-nowrap">
+                        <thead>
+                            <tr>
+                                <th style="width: 100px">#</th>
+                                <th style="width: 250px">CRM</th>
+                                <th>Nome</th>
+                                <th>Status</th>
+                                <th style="width: 50px">Ações</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            @if (Model.Any())
+                            {
+                                foreach (var medico in Model)
+                                {
+                                    <tr>
+                                        <td>@medico.Id</td>
+                                        <td>@medico.CRM</td>
+                                        <td>@medico.Nome</td>
+                                        <td>
+                                            @if (medico.IsActive)
+                                            {
+                                                <i class="text-success" data-feather="check-square"></i>
+                                            }
+                                            else
+                                            {
+                                                <i class="text-danger" data-feather="x-square"></i>
+                                            }
+                                        </td>
+                                        <td></td>
+                                    </tr>
+                                }
+                            }
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
