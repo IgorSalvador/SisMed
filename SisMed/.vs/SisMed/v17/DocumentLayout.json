@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|c:\\users\\igors\\documents\\projetos\\sismed\\sismed\\sismed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD67F519-09A6-4547-82B7-441E3C73233A}|SisMed\\SisMed.csproj|solutionrelative:sismed\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SisMed\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SisMed\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-13T00:31:00.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SisMed\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\igors\\Documents\\Projetos\\SisMed\\SisMed\\SisMed\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SisMed\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABwAAAAAAAAAAAAAAFEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-13T00:27:53.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
